@@ -1,15 +1,12 @@
-# Docker 
-Docker Lightning Lesson
-
-- [Docker documentation](https://www.docker.com/)
+# Docker-Lightning-Learn
 
 **What is Docker You Ask?**
 
 <img src="confused.jpg" width="300px" height="300px">
 
-**Ya, me too**
+**Ya, me too!**
 
-But according to the bountiful information on the web, Docker is a computer program that performs operating-system-level-virtualization.
+According to the bountiful information on the web, Docker is a computer program that performs operating-system-level-virtualization.
 
 Docker runs software packages called Containers. Containers are isolated from each other and bundle their own applications, tools, libraries and configuration files. They can communicate with each other through well-defined channels. All containers are run by a single operatiing-system kernel which makes the software lightweight and more appealing then running devices on local machines. 
 
@@ -38,4 +35,6 @@ and so on.......
 
 
 ## Resources
+- [Docker official documentation](https://www.docker.com/)
+- [Exploring Docker-Getting Started](https://www.youtube.com/watch?v=Kyx2PsuwomE&list=PLillGF-Rfqbb6vZqT-Lzi9Al_noaY5LAs)
 - [Docker in 12-minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)

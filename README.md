@@ -5,7 +5,7 @@ Docker Lightning Lesson
 
 **What is Docker You Ask?**
 
-<img src="confused.png">
+<img src="confused.jpg">
 
 **Ya, me too**
 

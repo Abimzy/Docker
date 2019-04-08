@@ -5,7 +5,7 @@ Docker Lightning Lesson
 
 **What is Docker You Ask?**
 
-<img src="confused.jpg">
+<img src="confused.jpg" style="width:300px; height:300px;">
 
 **Ya, me too**
 
@@ -13,7 +13,7 @@ But according to the bountiful information on the web, Docker is a computer prog
 
 Docker runs software packages called Containers. Containers are isolated from each other and bundle their own applications, tools, libraries and configuration files. They can communicate with each other through well-defined channels. All containers are run by a single operatiing-system kernel which makes the software lightweight and more appealing then running devices on local machines. 
 
-<img src="us.jpg" style="width:300px">
+<img src="us.jpg">
 
 For those who are more visual and enjoy a somewhat accurate comparison. Docker is like the United States, each state is it's only container that have different laws (dependencies, libraries, configurations) but still run under one overlaying government(the FEDS). 
 

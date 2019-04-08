@@ -5,7 +5,7 @@ Docker Lightning Lesson
 
 **What is Docker You Ask?**
 
-<img src="confused.jpg" style="width:300px; height:300px;">
+<img src="confused.jpg" width="300px" height="300px">
 
 **Ya, me too**
 

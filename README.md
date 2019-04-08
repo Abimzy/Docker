@@ -3,6 +3,7 @@ Docker Lightning Lesson
 
 - [Docker documentation](https://www.docker.com/)
 
+<img src="Screen Shot 2019-04-08 at 10.09.35 AM.png">
 
 
 
